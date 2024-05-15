@@ -44,8 +44,6 @@ Normal Commands
 
 ?withdraw <amount> | Withdraws an amount of hearts
 
-?revive <player> | Revives a ghost
-
 ?welcome | Show the welcome GUI
 
 Losing all your hearts puts you into spectator mode 
