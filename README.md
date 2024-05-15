@@ -1,4 +1,4 @@
-# COMMANDS FOR THE SMP (BETTER TEAM MOD AND LIFESTEAL MOD)
+# COMMANDS AND MODS THAT WILL Be IN THE SMP
 better team's cmmands
 Commands:
 
@@ -89,3 +89,10 @@ You can get money from selling items, killing mobs and players, or make a trade 
 - !shop (To buy something)
 - !sell (To sell something)
 - !auctionhouse (Auction house)
+
+# FEMININE CHESTPLATE MOD
+you get boobs.
+
+
+# Custom STRUCTURE MODS
+no commands for this one
