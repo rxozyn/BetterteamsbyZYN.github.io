@@ -1,5 +1,6 @@
 # COMMANDS AND MODS THAT WILL Be IN THE SMP
-better team's cmmands
+
+# BETTER TEAMS
 Commands:
 
 1. !teamjoin [team_name]
