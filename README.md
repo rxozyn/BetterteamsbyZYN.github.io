@@ -41,8 +41,53 @@ The prefix is ?
 
 Normal Commands
 ?help | Messages you all the custom commands and their functions
+
 ?withdraw <amount> | Withdraws an amount of hearts
+
 ?revive <player> | Revives a ghost
+
 ?welcome | Show the welcome GUI
+
 Losing all your hearts puts you into spectator mode 
 [More info at clickhere ](https://modbay.org/mods/696-lifesteal-addon.html)
+
+
+# TPA AND MC ESSENTIALS
+Commands:
+Home Command:
+
+- !home <home_name> (To teleport to home that you’ve been set)
+- !sethome <home_name> (Set or Add home)
+- !delhome <home_name> (Delete or Remove home)
+- !listhome (To see list of your’s home)
+
+Warp Command:
+
+- !warp <place_name> (Teleport to place)
+- !listwarp (To see list of warp in the server)
+
+TPA Command:
+
+- !tpa <player_name> (Sent request for teleport to other player)
+- !tpahere <player_name> (Sent request to other player for teleport to you)
+- !tpasetting <on/off> (Set your tpa setting. If its off you can’t send tpa request to other player and other player can’t send tpa request to you)
+
+  General Command:
+
+!help (To show Command List / Help List)
+!back (Teleport to last died location)
+!playerlist (Show player list in server)
+!tps (Check Tick per Second)
+!message <player_name> <message> (Send private message to Player)
+!reply <message> (Reply private message)
+
+ Money Command :
+
+You can get money from selling items, killing mobs and players, or make a trade with another player.
+
+- !money <player_money?> (To see your’s / someone’s money)
+- !pay <player_name> <amount> (To pay/give money to another player)
+- !topmoney (See Top Money leaderboards)
+- !shop (To buy something)
+- !sell (To sell something)
+- !auctionhouse (Auction house)
