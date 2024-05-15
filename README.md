@@ -1,4 +1,4 @@
-# BetterteamsbyZYN.github.io
+# COMMANDS FOR THE SMP (BETTER TEAM MOD AND LIFESTEAL MOD)
 better team's cmmands
 Commands:
 
@@ -34,3 +34,15 @@ Commands:
 
 11. !globalchat
     - Switches chat mode back to global chat, allowing the player to send messages to the global chat rather than the team chat.
+   
+# LIFESTEAL
+Commands:
+The prefix is ?
+
+Normal Commands
+?help | Messages you all the custom commands and their functions
+?withdraw <amount> | Withdraws an amount of hearts
+?revive <player> | Revives a ghost
+?welcome | Show the welcome GUI
+Losing all your hearts puts you into spectator mode 
+[More info at clickhere ](https://modbay.org/mods/696-lifesteal-addon.html)
